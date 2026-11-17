@@ -1,0 +1,2461 @@
+{
+  "schemaVersion": 1,
+  "title": "InvestiQ India: The Complete Guide to Earning, Investing, Protecting and Passing On Wealth in India",
+  "targetWords": {
+    "min": 900000,
+    "max": 1100000
+  },
+  "updated": "2026-10-16",
+  "notes": "Sections will be appended as written.",
+  "parts": [
+    {
+      "partId": "F",
+      "partTitle": "Front matter",
+      "chapters": [
+        {
+          "chapterId": "F1",
+          "title": "How to use this book; how the site, PDF and EPUB relate",
+          "slug": "how-to-use-this-book-how-the-site-pdf-and-epub-relate",
+          "summary": "Covers how to use this book; how the site, PDF and EPUB relate.",
+          "partId": "F",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "F2",
+          "title": "Legal disclaimer, editorial policy, legal-risk scale (L1–L4), how facts are verified",
+          "slug": "legal-disclaimer-editorial-policy-legal-risk-scale-l1-l4-how-facts-are-verified",
+          "summary": "Covers legal disclaimer, editorial policy, legal-risk scale (L1-L4), how facts are verified.",
+          "partId": "F",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "F3",
+          "title": "Meet Arjun, Meera and Rohan (anonymised personas, assumptions, their numbers)",
+          "slug": "meet-arjun-meera-and-rohan-anonymised-personas-assumptions-their-numbers",
+          "summary": "Covers meet Arjun, Meera and Rohan (anonymised personas, assumptions, their numbers).",
+          "partId": "F",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "F4",
+          "title": "The Wealth Map: a one-page visual of the entire book",
+          "slug": "the-wealth-map-a-one-page-visual-of-the-entire-book",
+          "summary": "Covers the Wealth Map: a one-page visual of the entire book.",
+          "partId": "F",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P01",
+      "partTitle": "The Physics of Money for Indians",
+      "chapters": [
+        {
+          "chapterId": "C-001",
+          "title": "India's wealth landscape: income and wealth distribution, why most wealth is made by income, ownership, and compounding, and how to read this book",
+          "slug": "india-s-wealth-landscape-income-and-wealth-distribution-why-most-wealth-is-made-by-income-ownership-and-compounding-and-how-to-read-this-book",
+          "summary": "Covers india's wealth landscape: income and wealth distribution, why most wealth is made by income, ownership, and compounding, and how to read this book.",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-002",
+          "title": "Compounding, inflation, real returns, XIRR/CAGR/IRR/TWRR, sequence risk, with Indian data series (Sensex/Nifty TRI, gold, PPF, FD, CPI, real estate indices)",
+          "slug": "compounding-inflation-real-returns-xirr-cagr-irr-twrr-sequence-risk-with-indian-data-series-sensex-nifty-tri-gold-ppf-fd-cpi-real-estate-indices",
+          "summary": "Covers compounding, inflation, real returns, XIRR/CAGR/IRR/TWRR, sequence risk, with Indian data series (Sensex/Nifty TRI, gold, PPF, FD, CPI, real estate indices).",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-003",
+          "title": "Behavioural finance and the psychology of Indian family money",
+          "slug": "behavioural-finance-and-the-psychology-of-indian-family-money",
+          "summary": "Covers behavioural finance and the psychology of Indian family money.",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-004",
+          "title": "Cash-flow engineering on a low income: budgeting systems, the emergency fund, buffers, lifestyle design",
+          "slug": "cash-flow-engineering-on-a-low-income-budgeting-systems-the-emergency-fund-buffers-lifestyle-design",
+          "summary": "Covers cash-flow engineering on a low income: budgeting systems, the emergency fund, buffers, lifestyle design.",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-005",
+          "title": "Debt triage and elimination: loans, credit cards, BNPL, gold loans, loans against property or securities, EMIs, effective interest rates, prepay-versus-invest math, settlement and consolidation traps, credit score repair, legal rights against recovery agents",
+          "slug": "debt-triage-and-elimination-loans-credit-cards-bnpl-gold-loans-loans-against-property-or-securities-emis-effective-interest-rates-prepay-versus-invest-math-settlement-and-consolidation-traps-credit-score-repair-legal-rights-against-recovery-agents",
+          "summary": "Covers debt triage and elimination: loans, credit cards, BNPL, gold loans, loans against property or securities, EMIs, effective interest rates, prepay-versus-invest math, settlement and consolidation traps, credit score repair, legal rights against recovery agents.",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-006",
+          "title": "The ₹13-lakh decision: a rigorous framework for deploying a first lump sum (debt, buffer, skills, assets) with Arjun's complete worked plan and sensitivity analysis",
+          "slug": "the-13-lakh-decision-a-rigorous-framework-for-deploying-a-first-lump-sum-debt-buffer-skills-assets-with-arjun-s-complete-worked-plan-and-sensitivity-analysis",
+          "summary": "Covers the 13-lakh decision: a rigorous framework for deploying a first lump sum (debt, buffer, skills, assets) with Arjun's complete worked plan and sensitivity analysis.",
+          "partId": "P01",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P02",
+      "partTitle": "Earning More: The Highest-Return Asset Is You",
+      "chapters": [
+        {
+          "chapterId": "C-007",
+          "title": "The income ladder: realistic ways to move from ₹22k to ₹1L, ₹3L, ₹10L per month, with timelines and probabilities",
+          "slug": "the-income-ladder-realistic-ways-to-move-from-22k-to-1l-3l-10l-per-month-with-timelines-and-probabilities",
+          "summary": "Covers the income ladder: realistic ways to move from 22k to 1L, 3L, 10L per month, with timelines and probabilities.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-008",
+          "title": "Engineering careers in India: services vs product vs GCC vs startups vs government vs overseas; how compensation really works (CTC, variable, ESOPs, RSUs, PF, gratuity, notice period buyouts)",
+          "slug": "engineering-careers-in-india-services-vs-product-vs-gcc-vs-startups-vs-government-vs-overseas-how-compensation-really-works-ctc-variable-esops-rsus-pf-gratuity-notice-period-buyouts",
+          "summary": "Covers engineering careers in India: services vs product vs GCC vs startups vs government vs overseas; how compensation really works (CTC, variable, ESOPs, RSUs, PF, gratuity, notice period buyouts).",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-009",
+          "title": "Switching jobs: skills roadmap, DSA/system design, projects, resumes, referrals, interviews, negotiation scripts, counter-offers, offer comparison models, bonds and clawbacks",
+          "slug": "switching-jobs-skills-roadmap-dsa-system-design-projects-resumes-referrals-interviews-negotiation-scripts-counter-offers-offer-comparison-models-bonds-and-clawbacks",
+          "summary": "Covers switching jobs: skills roadmap, DSA/system design, projects, resumes, referrals, interviews, negotiation scripts, counter-offers, offer comparison models, bonds and clawbacks.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-010",
+          "title": "Freelancing, consulting and contracting: platforms, pricing, contracts, invoicing, GST, TDS, presumptive taxation, foreign clients, receiving foreign payments legally",
+          "slug": "freelancing-consulting-and-contracting-platforms-pricing-contracts-invoicing-gst-tds-presumptive-taxation-foreign-clients-receiving-foreign-payments-legally",
+          "summary": "Covers freelancing, consulting and contracting: platforms, pricing, contracts, invoicing, GST, TDS, presumptive taxation, foreign clients, receiving foreign payments legally.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-011",
+          "title": "Building products and digital income: SaaS, apps, open source, content, courses, affiliate disclosures, creator taxation",
+          "slug": "building-products-and-digital-income-saas-apps-open-source-content-courses-affiliate-disclosures-creator-taxation",
+          "summary": "Covers building products and digital income: SaaS, apps, open source, content, courses, affiliate disclosures, creator taxation.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-012",
+          "title": "Starting a business in India: structures (sole proprietorship, partnership, LLP, Pvt Ltd, OPC), registrations (Udyam, GST, shops act, FSSAI, IEC), compliance calendar, banking, funding (bootstrapping, MUDRA, CGTMSE, Startup India, angels, VC), valuation basics",
+          "slug": "starting-a-business-in-india-structures-sole-proprietorship-partnership-llp-pvt-ltd-opc-registrations-udyam-gst-shops-act-fssai-iec-compliance-calendar-banking-funding-bootstrapping-mudra-cgtmse-startup-india-angels-vc-valuation-basics",
+          "summary": "Covers starting a business in India: structures (sole proprietorship, partnership, LLP, Pvt Ltd, OPC), registrations (Udyam, GST, shops act, FSSAI, IEC), compliance calendar, banking, funding (bootstrapping, MUDRA, CGTMSE, Startup India, angels, VC), valuation basics.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-013",
+          "title": "Trading businesses and agri/FMCG/feed/retail (including using a family property for business safely and legally) with unit-economics models",
+          "slug": "trading-businesses-and-agri-fmcg-feed-retail-including-using-a-family-property-for-business-safely-and-legally-with-unit-economics-models",
+          "summary": "Covers trading businesses and agri/FMCG/feed/retail (including using a family property for business safely and legally) with unit-economics models.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-014",
+          "title": "Higher education and credentials ROI: MBA, MTech, GATE, CFA, CA, abroad, scholarships, education-loan math",
+          "slug": "higher-education-and-credentials-roi-mba-mtech-gate-cfa-ca-abroad-scholarships-education-loan-math",
+          "summary": "Covers higher education and credentials ROI: MBA, MTech, GATE, CFA, CA, abroad, scholarships, education-loan math.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-015",
+          "title": "Government jobs and public-sector options: the real maths",
+          "slug": "government-jobs-and-public-sector-options-the-real-maths",
+          "summary": "Covers government jobs and public-sector options: the real maths.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-016",
+          "title": "AI and the future of work: protecting and growing earning power",
+          "slug": "ai-and-the-future-of-work-protecting-and-growing-earning-power",
+          "summary": "Covers aI and the future of work: protecting and growing earning power.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-017",
+          "title": "Getting paid what you are worth: negotiating, raises, equity, and side-income stacking",
+          "slug": "getting-paid-what-you-are-worth-negotiating-raises-equity-and-side-income-stacking",
+          "summary": "Covers getting paid what you are worth: negotiating, raises, equity, and side-income stacking.",
+          "partId": "P02",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P03",
+      "partTitle": "Banking, Cash and Payments",
+      "chapters": [
+        {
+          "chapterId": "C-018",
+          "title": "Account types, sweep, small finance banks, payments banks, co-operative bank risk, DICGC cover, safe-banking and fraud rules",
+          "slug": "account-types-sweep-small-finance-banks-payments-banks-co-operative-bank-risk-dicgc-cover-safe-banking-and-fraud-rules",
+          "summary": "Covers account types, sweep, small finance banks, payments banks, co-operative bank risk, DICGC cover, safe-banking and fraud rules.",
+          "partId": "P03",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-019",
+          "title": "FDs, RDs, corporate FDs, NBFC deposits, taxation and TDS mechanics, Form 15G/15H",
+          "slug": "fds-rds-corporate-fds-nbfc-deposits-taxation-and-tds-mechanics-form-15g-15h",
+          "summary": "Covers fDs, RDs, corporate FDs, NBFC deposits, taxation and TDS mechanics, Form 15G/15H.",
+          "partId": "P03",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-020",
+          "title": "Liquid, overnight and arbitrage options for cash",
+          "slug": "liquid-overnight-and-arbitrage-options-for-cash",
+          "summary": "Covers liquid, overnight and arbitrage options for cash.",
+          "partId": "P03",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-021",
+          "title": "UPI, cards, credit-card rewards optimisation, cashback traps, and forex cards",
+          "slug": "upi-cards-credit-card-rewards-optimisation-cashback-traps-and-forex-cards",
+          "summary": "Covers uPI, cards, credit-card rewards optimisation, cashback traps, and forex cards.",
+          "partId": "P03",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-022",
+          "title": "Credit scores, CIBIL/Experian/Equifax/CRIF reports, disputes and ombudsman",
+          "slug": "credit-scores-cibil-experian-equifax-crif-reports-disputes-and-ombudsman",
+          "summary": "Covers credit scores, CIBIL/Experian/Equifax/CRIF reports, disputes and ombudsman.",
+          "partId": "P03",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P04",
+      "partTitle": "Government Schemes and Fixed Income",
+      "chapters": [
+        {
+          "chapterId": "C-023",
+          "title": "EPF/VPF in depth, withdrawal rules, taxation, UAN",
+          "slug": "epf-vpf-in-depth-withdrawal-rules-taxation-uan",
+          "summary": "Covers ePF/VPF in depth, withdrawal rules, taxation, UAN.",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-024",
+          "title": "PPF, SSY, SCSS, NSC, KVP, POMIS and the full post-office suite",
+          "slug": "ppf-ssy-scss-nsc-kvp-pomis-and-the-full-post-office-suite",
+          "summary": "Covers pPF, SSY, SCSS, NSC, KVP, POMIS and the full post-office suite.",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-025",
+          "title": "NPS (all versions, tiers), the Unified Pension Scheme, annuities, tax benefits and traps",
+          "slug": "nps-all-versions-tiers-the-unified-pension-scheme-annuities-tax-benefits-and-traps",
+          "summary": "Covers nPS (all versions, tiers), the Unified Pension Scheme, annuities, tax benefits and traps.",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-026",
+          "title": "Government securities, T-bills, SDLs, RBI Retail Direct, bond maths (YTM, duration, convexity)",
+          "slug": "government-securities-t-bills-sdls-rbi-retail-direct-bond-maths-ytm-duration-convexity",
+          "summary": "Covers government securities, T-bills, SDLs, RBI Retail Direct, bond maths (YTM, duration, convexity).",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-027",
+          "title": "Corporate bonds, NCDs, bond platforms, credit ratings, default case studies, yield traps",
+          "slug": "corporate-bonds-ncds-bond-platforms-credit-ratings-default-case-studies-yield-traps",
+          "summary": "Covers corporate bonds, NCDs, bond platforms, credit ratings, default case studies, yield traps.",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-028",
+          "title": "Sovereign Gold Bonds (history, secondary market, current status), gold monetisation",
+          "slug": "sovereign-gold-bonds-history-secondary-market-current-status-gold-monetisation",
+          "summary": "Covers sovereign Gold Bonds (history, secondary market, current status), gold monetisation.",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-029",
+          "title": "Debt mutual funds, taxation, credit-risk blow-ups (case studies)",
+          "slug": "debt-mutual-funds-taxation-credit-risk-blow-ups-case-studies",
+          "summary": "Covers debt mutual funds, taxation, credit-risk blow-ups (case studies).",
+          "partId": "P04",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P05",
+      "partTitle": "Mutual Funds, ETFs and Managed Products",
+      "chapters": [
+        {
+          "chapterId": "C-030",
+          "title": "Anatomy of Indian mutual funds, regulations, categories, TER, direct vs regular, riskometers, factsheets",
+          "slug": "anatomy-of-indian-mutual-funds-regulations-categories-ter-direct-vs-regular-riskometers-factsheets",
+          "summary": "Covers anatomy of Indian mutual funds, regulations, categories, TER, direct vs regular, riskometers, factsheets.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-031",
+          "title": "Index funds and ETFs: construction, tracking error, factor indices, choosing between them",
+          "slug": "index-funds-and-etfs-construction-tracking-error-factor-indices-choosing-between-them",
+          "summary": "Covers index funds and ETFs: construction, tracking error, factor indices, choosing between them.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-032",
+          "title": "Active equity funds: fund selection science, persistence, SPIVA evidence, overlap, style drift",
+          "slug": "active-equity-funds-fund-selection-science-persistence-spiva-evidence-overlap-style-drift",
+          "summary": "Covers active equity funds: fund selection science, persistence, SPIVA evidence, overlap, style drift.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-033",
+          "title": "Hybrid, multi-asset, balanced-advantage, arbitrage, equity-savings funds, solution-oriented funds",
+          "slug": "hybrid-multi-asset-balanced-advantage-arbitrage-equity-savings-funds-solution-oriented-funds",
+          "summary": "Covers hybrid, multi-asset, balanced-advantage, arbitrage, equity-savings funds, solution-oriented funds.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-034",
+          "title": "SIP/STP/SWP engineering, step-up SIPs, lump-sum vs SIP evidence for India",
+          "slug": "sip-stp-swp-engineering-step-up-sips-lump-sum-vs-sip-evidence-for-india",
+          "summary": "Covers sIP/STP/SWP engineering, step-up SIPs, lump-sum vs SIP evidence for India.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-035",
+          "title": "Taxation of mutual funds and capital-gains harvesting (legal methods and limits)",
+          "slug": "taxation-of-mutual-funds-and-capital-gains-harvesting-legal-methods-and-limits",
+          "summary": "Covers taxation of mutual funds and capital-gains harvesting (legal methods and limits).",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-036",
+          "title": "PMS, AIFs (Cat I/II/III), SIFs, structured products, MLDs: due diligence and fee drag",
+          "slug": "pms-aifs-cat-i-ii-iii-sifs-structured-products-mlds-due-diligence-and-fee-drag",
+          "summary": "Covers pMS, AIFs (Cat I/II/III), SIFs, structured products, MLDs: due diligence and fee drag.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-037",
+          "title": "ELSS and tax-saving funds in both regimes",
+          "slug": "elss-and-tax-saving-funds-in-both-regimes",
+          "summary": "Covers eLSS and tax-saving funds in both regimes.",
+          "partId": "P05",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P06",
+      "partTitle": "Direct Equity",
+      "chapters": [
+        {
+          "chapterId": "C-038",
+          "title": "Market structure: NSE/BSE, clearing, T+1, depositories, brokers, SEBI investor protection, margin and pledge rules",
+          "slug": "market-structure-nse-bse-clearing-t-1-depositories-brokers-sebi-investor-protection-margin-and-pledge-rules",
+          "summary": "Covers market structure: NSE/BSE, clearing, T+1, depositories, brokers, SEBI investor protection, margin and pledge rules.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-039",
+          "title": "IPOs, SME IPOs, OFS, rights, buybacks, delistings, SPACs, grey-market realities",
+          "slug": "ipos-sme-ipos-ofs-rights-buybacks-delistings-spacs-grey-market-realities",
+          "summary": "Covers iPOs, SME IPOs, OFS, rights, buybacks, delistings, SPACs, grey-market realities.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-040",
+          "title": "Reading Indian financial statements (Ind AS), forensic red flags, auditor signals",
+          "slug": "reading-indian-financial-statements-ind-as-forensic-red-flags-auditor-signals",
+          "summary": "Covers reading Indian financial statements (Ind AS), forensic red flags, auditor signals.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-041",
+          "title": "Valuation: DCF, multiples, reverse DCF, sector-specific models (banks, NBFCs, IT, FMCG, pharma, cyclicals, real-estate developers)",
+          "slug": "valuation-dcf-multiples-reverse-dcf-sector-specific-models-banks-nbfcs-it-fmcg-pharma-cyclicals-real-estate-developers",
+          "summary": "Covers valuation: DCF, multiples, reverse DCF, sector-specific models (banks, NBFCs, IT, FMCG, pharma, cyclicals, real-estate developers).",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-042",
+          "title": "Quality, value, growth, momentum and dividend investing, with Indian backtest evidence and caveats",
+          "slug": "quality-value-growth-momentum-and-dividend-investing-with-indian-backtest-evidence-and-caveats",
+          "summary": "Covers quality, value, growth, momentum and dividend investing, with Indian backtest evidence and caveats.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-043",
+          "title": "Small-cap and micro-cap: opportunities, manipulation patterns, circuit-limit traps, promoter pledging, related-party abuse, SEBI orders as case studies",
+          "slug": "small-cap-and-micro-cap-opportunities-manipulation-patterns-circuit-limit-traps-promoter-pledging-related-party-abuse-sebi-orders-as-case-studies",
+          "summary": "Covers small-cap and micro-cap: opportunities, manipulation patterns, circuit-limit traps, promoter pledging, related-party abuse, SEBI orders as case studies.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-044",
+          "title": "Portfolio construction for stocks: position sizing, Kelly caution, concentration, exits",
+          "slug": "portfolio-construction-for-stocks-position-sizing-kelly-caution-concentration-exits",
+          "summary": "Covers portfolio construction for stocks: position sizing, Kelly caution, concentration, exits.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-045",
+          "title": "Corporate governance and Indian business-group analysis",
+          "slug": "corporate-governance-and-indian-business-group-analysis",
+          "summary": "Covers corporate governance and Indian business-group analysis.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-046",
+          "title": "Equity research workflow, screeners, data sources, building a personal research system",
+          "slug": "equity-research-workflow-screeners-data-sources-building-a-personal-research-system",
+          "summary": "Covers equity research workflow, screeners, data sources, building a personal research system.",
+          "partId": "P06",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P07",
+      "partTitle": "Derivatives and Active Trading",
+      "chapters": [
+        {
+          "chapterId": "C-047",
+          "title": "Futures and options mechanics in India, lot sizes, margins, SPAN/exposure, expiry rules, STT and charges",
+          "slug": "futures-and-options-mechanics-in-india-lot-sizes-margins-span-exposure-expiry-rules-stt-and-charges",
+          "summary": "Covers futures and options mechanics in India, lot sizes, margins, SPAN/exposure, expiry rules, STT and charges.",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-048",
+          "title": "Options strategies with full payoff and Greek analysis, and honest loss statistics (SEBI's studies on retail F&O)",
+          "slug": "options-strategies-with-full-payoff-and-greek-analysis-and-honest-loss-statistics-sebi-s-studies-on-retail-f-o",
+          "summary": "Covers options strategies with full payoff and Greek analysis, and honest loss statistics (SEBI's studies on retail F&O).",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-049",
+          "title": "Hedging a portfolio, protective puts, collars, covered calls",
+          "slug": "hedging-a-portfolio-protective-puts-collars-covered-calls",
+          "summary": "Covers hedging a portfolio, protective puts, collars, covered calls.",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-050",
+          "title": "Quant and algo trading: backtesting pitfalls, overfitting, slippage, API trading rules",
+          "slug": "quant-and-algo-trading-backtesting-pitfalls-overfitting-slippage-api-trading-rules",
+          "summary": "Covers quant and algo trading: backtesting pitfalls, overfitting, slippage, API trading rules.",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-051",
+          "title": "Taxation of trading income (speculative/non-speculative, audit thresholds, loss carry-forward)",
+          "slug": "taxation-of-trading-income-speculative-non-speculative-audit-thresholds-loss-carry-forward",
+          "summary": "Covers taxation of trading income (speculative/non-speculative, audit thresholds, loss carry-forward).",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-052",
+          "title": "Trading psychology, risk of ruin, why most retail traders lose",
+          "slug": "trading-psychology-risk-of-ruin-why-most-retail-traders-lose",
+          "summary": "Covers trading psychology, risk of ruin, why most retail traders lose.",
+          "partId": "P07",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P08",
+      "partTitle": "Gold, Silver, Commodities and Digital Assets",
+      "chapters": [
+        {
+          "chapterId": "C-053",
+          "title": "Physical gold, hallmarking, jewellery math, making charges, import duty, GST, storage, resale",
+          "slug": "physical-gold-hallmarking-jewellery-math-making-charges-import-duty-gst-storage-resale",
+          "summary": "Covers physical gold, hallmarking, jewellery math, making charges, import duty, GST, storage, resale.",
+          "partId": "P08",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-054",
+          "title": "Gold/silver ETFs, mutual funds, digital gold regulation, SGBs",
+          "slug": "gold-silver-etfs-mutual-funds-digital-gold-regulation-sgbs",
+          "summary": "Covers gold/silver ETFs, mutual funds, digital gold regulation, SGBs.",
+          "partId": "P08",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-055",
+          "title": "Commodity derivatives and MCX, global commodity cycles",
+          "slug": "commodity-derivatives-and-mcx-global-commodity-cycles",
+          "summary": "Covers commodity derivatives and MCX, global commodity cycles.",
+          "partId": "P08",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-056",
+          "title": "Crypto and digital assets in India: law, tax (30% regime, TDS), exchange risk, custody, scams, and a sober allocation discussion",
+          "slug": "crypto-and-digital-assets-in-india-law-tax-30-regime-tds-exchange-risk-custody-scams-and-a-sober-allocation-discussion",
+          "summary": "Covers crypto and digital assets in India: law, tax (30% regime, TDS), exchange risk, custody, scams, and a sober allocation discussion.",
+          "partId": "P08",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-057",
+          "title": "Currency, USD/INR, and hedging household risk",
+          "slug": "currency-usd-inr-and-hedging-household-risk",
+          "summary": "Covers currency, USD/INR, and hedging household risk.",
+          "partId": "P08",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P09",
+      "partTitle": "Real Estate and Land",
+      "chapters": [
+        {
+          "chapterId": "C-058",
+          "title": "Residential real estate as an investment: rent yield, appreciation, true IRR with all costs and leverage",
+          "slug": "residential-real-estate-as-an-investment-rent-yield-appreciation-true-irr-with-all-costs-and-leverage",
+          "summary": "Covers residential real estate as an investment: rent yield, appreciation, true IRR with all costs and leverage.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-059",
+          "title": "Buying property: legal title search, encumbrance, RERA, builder risk, registration, stamp duty, TDS on property purchase, home-loan mechanics, tax benefits",
+          "slug": "buying-property-legal-title-search-encumbrance-rera-builder-risk-registration-stamp-duty-tds-on-property-purchase-home-loan-mechanics-tax-benefits",
+          "summary": "Covers buying property: legal title search, encumbrance, RERA, builder risk, registration, stamp duty, TDS on property purchase, home-loan mechanics, tax benefits.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-060",
+          "title": "Land, agricultural land, land banking, conversion and zoning, encroachment and litigation, mutation and revenue records, inheritance of land by state",
+          "slug": "land-agricultural-land-land-banking-conversion-and-zoning-encroachment-and-litigation-mutation-and-revenue-records-inheritance-of-land-by-state",
+          "summary": "Covers land, agricultural land, land banking, conversion and zoning, encroachment and litigation, mutation and revenue records, inheritance of land by state.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-061",
+          "title": "Commercial real estate, redevelopment, joint development agreements, and mixed-use properties (including shop-plus-residence redevelopment economics)",
+          "slug": "commercial-real-estate-redevelopment-joint-development-agreements-and-mixed-use-properties-including-shop-plus-residence-redevelopment-economics",
+          "summary": "Covers commercial real estate, redevelopment, joint development agreements, and mixed-use properties (including shop-plus-residence redevelopment economics).",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-062",
+          "title": "REITs, InvITs, SM-REITs, fractional ownership platforms, and legal status of each",
+          "slug": "reits-invits-sm-reits-fractional-ownership-platforms-and-legal-status-of-each",
+          "summary": "Covers rEITs, InvITs, SM-REITs, fractional ownership platforms, and legal status of each.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-063",
+          "title": "Capital gains on property, indexation history, exemptions and reinvestment rules, set-off, joint ownership and clubbing, benami pitfalls",
+          "slug": "capital-gains-on-property-indexation-history-exemptions-and-reinvestment-rules-set-off-joint-ownership-and-clubbing-benami-pitfalls",
+          "summary": "Covers capital gains on property, indexation history, exemptions and reinvestment rules, set-off, joint ownership and clubbing, benami pitfalls.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-064",
+          "title": "Real estate versus equity versus debt: modelling the honest comparison",
+          "slug": "real-estate-versus-equity-versus-debt-modelling-the-honest-comparison",
+          "summary": "Covers real estate versus equity versus debt: modelling the honest comparison.",
+          "partId": "P09",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P10",
+      "partTitle": "Alternatives and the Scam Defence System",
+      "chapters": [
+        {
+          "chapterId": "C-065",
+          "title": "P2P lending in India (mechanics, RBI NBFC-P2P rules, due diligence, defaults, taxation)",
+          "slug": "p2p-lending-in-india-mechanics-rbi-nbfc-p2p-rules-due-diligence-defaults-taxation",
+          "summary": "Covers p2P lending in India (mechanics, RBI NBFC-P2P rules, due diligence, defaults, taxation).",
+          "partId": "P10",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-066",
+          "title": "Private credit, invoice discounting, trade finance, startup and angel investing, VC/PE access, tax on startup gains, angel tax history",
+          "slug": "private-credit-invoice-discounting-trade-finance-startup-and-angel-investing-vc-pe-access-tax-on-startup-gains-angel-tax-history",
+          "summary": "Covers private credit, invoice discounting, trade finance, startup and angel investing, VC/PE access, tax on startup gains, angel tax history.",
+          "partId": "P10",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-067",
+          "title": "Collectibles, art, watches, stamps, timber, farmland and plantation schemes, with legal status",
+          "slug": "collectibles-art-watches-stamps-timber-farmland-and-plantation-schemes-with-legal-status",
+          "summary": "Covers collectibles, art, watches, stamps, timber, farmland and plantation schemes, with legal status.",
+          "partId": "P10",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-068",
+          "title": "Ponzi, MLM, \"guaranteed return\" schemes, fake trading apps, pig-butchering, deepfake advisers, digital arrest, and an Indian case-study library",
+          "slug": "ponzi-mlm-guaranteed-return-schemes-fake-trading-apps-pig-butchering-deepfake-advisers-digital-arrest-and-an-indian-case-study-library",
+          "summary": "Covers ponzi, MLM, guaranteed return schemes, fake trading apps, pig-butchering, deepfake advisers, digital arrest, and an Indian case-study library.",
+          "partId": "P10",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-069",
+          "title": "How to verify any investment: the SEBI/RBI/IRDAI/MCA registry checklist, red-flag scoring, and grievance routes (SCORES, SEBI SAMARTH/ODR, RBI CMS, ombudsmen, consumer courts, cyber-crime portal)",
+          "slug": "how-to-verify-any-investment-the-sebi-rbi-irdai-mca-registry-checklist-red-flag-scoring-and-grievance-routes-scores-sebi-samarth-odr-rbi-cms-ombudsmen-consumer-courts-cyber-crime-portal",
+          "summary": "Covers how to verify any investment: the SEBI/RBI/IRDAI/MCA registry checklist, red-flag scoring, and grievance routes (SCORES, SEBI SAMARTH/ODR, RBI CMS, ombudsmen, consumer courts, cyber-crime portal).",
+          "partId": "P10",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P11",
+      "partTitle": "Insurance and Risk",
+      "chapters": [
+        {
+          "chapterId": "C-070",
+          "title": "Term life, how much cover, underwriting, riders, claim-settlement analysis, nominee rules",
+          "slug": "term-life-how-much-cover-underwriting-riders-claim-settlement-analysis-nominee-rules",
+          "summary": "Covers term life, how much cover, underwriting, riders, claim-settlement analysis, nominee rules.",
+          "partId": "P11",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-071",
+          "title": "Health insurance: sum insured, super top-ups, waiting periods, portability, claim denial patterns, group vs retail, ayushman schemes",
+          "slug": "health-insurance-sum-insured-super-top-ups-waiting-periods-portability-claim-denial-patterns-group-vs-retail-ayushman-schemes",
+          "summary": "Covers health insurance: sum insured, super top-ups, waiting periods, portability, claim denial patterns, group vs retail, ayushman schemes.",
+          "partId": "P11",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-072",
+          "title": "Accident, disability, critical illness, motor, home, cyber, and liability insurance",
+          "slug": "accident-disability-critical-illness-motor-home-cyber-and-liability-insurance",
+          "summary": "Covers accident, disability, critical illness, motor, home, cyber, and liability insurance.",
+          "partId": "P11",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-073",
+          "title": "Endowment, ULIP, money-back, annuity, whole-life: honest return math and the surrender/exit decision framework",
+          "slug": "endowment-ulip-money-back-annuity-whole-life-honest-return-math-and-the-surrender-exit-decision-framework",
+          "summary": "Covers endowment, ULIP, money-back, annuity, whole-life: honest return math and the surrender/exit decision framework.",
+          "partId": "P11",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-074",
+          "title": "Insurance and taxation, and the mis-selling defence manual",
+          "slug": "insurance-and-taxation-and-the-mis-selling-defence-manual",
+          "summary": "Covers insurance and taxation, and the mis-selling defence manual.",
+          "partId": "P11",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P12",
+      "partTitle": "Taxation: The Largest Part of the Book",
+      "chapters": [
+        {
+          "chapterId": "C-075",
+          "title": "The architecture of Indian taxation: Income-tax Act 2025 vs 1961, heads of income, residency (RNOR/NR/R), PAN/AIS/TIS/26AS",
+          "slug": "the-architecture-of-indian-taxation-income-tax-act-2025-vs-1961-heads-of-income-residency-rnor-nr-r-pan-ais-tis-26as",
+          "summary": "Covers the architecture of Indian taxation: Income-tax Act 2025 vs 1961, heads of income, residency (RNOR/NR/R), PAN/AIS/TIS/26AS.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-076",
+          "title": "Salary taxation: all components, HRA, LTA, perquisites, ESOP/RSU taxation, notice-pay, gratuity, leave encashment, Form 16",
+          "slug": "salary-taxation-all-components-hra-lta-perquisites-esop-rsu-taxation-notice-pay-gratuity-leave-encashment-form-16",
+          "summary": "Covers salary taxation: all components, HRA, LTA, perquisites, ESOP/RSU taxation, notice-pay, gratuity, leave encashment, Form 16.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-077",
+          "title": "New vs old regime: complete decision models and calculators",
+          "slug": "new-vs-old-regime-complete-decision-models-and-calculators",
+          "summary": "Covers new vs old regime: complete decision models and calculators.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-078",
+          "title": "Capital gains master chapter: every asset class, set-off, carry-forward, and tax-loss harvesting done legally",
+          "slug": "capital-gains-master-chapter-every-asset-class-set-off-carry-forward-and-tax-loss-harvesting-done-legally",
+          "summary": "Covers capital gains master chapter: every asset class, set-off, carry-forward, and tax-loss harvesting done legally.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-079",
+          "title": "Income from house property, rent, deemed let-out, co-ownership, municipal tax",
+          "slug": "income-from-house-property-rent-deemed-let-out-co-ownership-municipal-tax",
+          "summary": "Covers income from house property, rent, deemed let-out, co-ownership, municipal tax.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-080",
+          "title": "Business and professional income, presumptive taxation (44AD/44ADA equivalents), books, audit, advance tax",
+          "slug": "business-and-professional-income-presumptive-taxation-44ad-44ada-equivalents-books-audit-advance-tax",
+          "summary": "Covers business and professional income, presumptive taxation (44AD/44ADA equivalents), books, audit, advance tax.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-081",
+          "title": "Income from other sources, gifts (the relatives exemption, the trap when gifting to non-relatives), loans from relatives, interest-free loans and clubbing of income",
+          "slug": "income-from-other-sources-gifts-the-relatives-exemption-the-trap-when-gifting-to-non-relatives-loans-from-relatives-interest-free-loans-and-clubbing-of-income",
+          "summary": "Covers income from other sources, gifts (the relatives exemption, the trap when gifting to non-relatives), loans from relatives, interest-free loans and clubbing of income.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-082",
+          "title": "Deductions and exemptions in full (old regime) and the few that survive in the new regime",
+          "slug": "deductions-and-exemptions-in-full-old-regime-and-the-few-that-survive-in-the-new-regime",
+          "summary": "Covers deductions and exemptions in full (old regime) and the few that survive in the new regime.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-083",
+          "title": "HUF: formation, karta, coparceners, assets, partition, taxation, limits, using an HUF for tax efficiency legally",
+          "slug": "huf-formation-karta-coparceners-assets-partition-taxation-limits-using-an-huf-for-tax-efficiency-legally",
+          "summary": "Covers hUF: formation, karta, coparceners, assets, partition, taxation, limits, using an HUF for tax efficiency legally.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-084",
+          "title": "Trusts (private, discretionary, family, charitable), their tax treatment, and when they help",
+          "slug": "trusts-private-discretionary-family-charitable-their-tax-treatment-and-when-they-help",
+          "summary": "Covers trusts (private, discretionary, family, charitable), their tax treatment, and when they help.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-085",
+          "title": "Companies and LLPs as wealth vehicles: salary-dividend mix, retained earnings, buybacks, family-owned investment companies",
+          "slug": "companies-and-llps-as-wealth-vehicles-salary-dividend-mix-retained-earnings-buybacks-family-owned-investment-companies",
+          "summary": "Covers companies and LLPs as wealth vehicles: salary-dividend mix, retained earnings, buybacks, family-owned investment companies.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-086",
+          "title": "TDS/TCS from the taxpayer's side, Form 26AS reconciliation, Forms 15G/15H, lower-deduction certificates",
+          "slug": "tds-tcs-from-the-taxpayer-s-side-form-26as-reconciliation-forms-15g-15h-lower-deduction-certificates",
+          "summary": "Covers tDS/TCS from the taxpayer's side, Form 26AS reconciliation, Forms 15G/15H, lower-deduction certificates.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-087",
+          "title": "Filing ITRs: forms, schedules, due dates, belated, revised and updated returns, refunds, intimations, rectification",
+          "slug": "filing-itrs-forms-schedules-due-dates-belated-revised-and-updated-returns-refunds-intimations-rectification",
+          "summary": "Covers filing ITRs: forms, schedules, due dates, belated, revised and updated returns, refunds, intimations, rectification.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-088",
+          "title": "Notices, scrutiny, reassessment, appeals (CIT(A), ITAT, High Court), settlement and dispute-resolution schemes, penalties and prosecution",
+          "slug": "notices-scrutiny-reassessment-appeals-cit-a-itat-high-court-settlement-and-dispute-resolution-schemes-penalties-and-prosecution",
+          "summary": "Covers notices, scrutiny, reassessment, appeals (CIT(A), ITAT, High Court), settlement and dispute-resolution schemes, penalties and prosecution.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-089",
+          "title": "GST for individuals, professionals, traders and small businesses",
+          "slug": "gst-for-individuals-professionals-traders-and-small-businesses",
+          "summary": "Covers gST for individuals, professionals, traders and small businesses.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-090",
+          "title": "Advance tax, interest sections, and the cost of non-compliance",
+          "slug": "advance-tax-interest-sections-and-the-cost-of-non-compliance",
+          "summary": "Covers advance tax, interest sections, and the cost of non-compliance.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-091",
+          "title": "Tax planning playbooks by life stage and income level, with L1-L4 labelled strategies and quantified savings",
+          "slug": "tax-planning-playbooks-by-life-stage-and-income-level-with-l1-l4-labelled-strategies-and-quantified-savings",
+          "summary": "Covers tax planning playbooks by life stage and income level, with L1-L4 labelled strategies and quantified savings.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-092",
+          "title": "Capital-structure and \"loophole\" encyclopedia: every known lawful and contested tax-reduction technique (family-member income splitting and clubbing rules, lawful use of lower-income family members, interest-on-loan strategies, section 54-type reinvestment, gifting and partition, holding-period timing, regime switching, retirement-account strategies, charitable giving, agricultural income, foreign-income structuring), each classified L1-L3, with what the department and courts say, and when it fails",
+          "slug": "capital-structure-and-loophole-encyclopedia-every-known-lawful-and-contested-tax-reduction-technique-family-member-income-splitting-and-clubbing-rules-lawful-use-of-lower-income-family-members-interest-on-loan-strategies-section-54-type-reinvestment-gifting-and-partition-holding-period-timing-regime-switching-retirement-account-strategies-charitable-giving-agricultural-income-foreign-income-structuring-each-classified-l1-l3-with-what-the-department-and-courts-say-and-when-it-fails",
+          "summary": "Covers capital-structure and loophole encyclopedia: every known lawful and contested tax-reduction technique (family-member income splitting and clubbing rules, lawful use of lower-income family members, interest-on-loan strategies, section 54-type reinvestment, gifting and partition, holding-period timing, regime switching, retirement-account strategies, charitable giving, agricultural income, foreign-income structuring), each classified L1-L3, with what the department and courts say, and when it fails.",
+          "partId": "P12",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P13",
+      "partTitle": "Black Money, Enforcement and Staying Safe",
+      "chapters": [
+        {
+          "chapterId": "C-093",
+          "title": "The enforcement map: Income-tax Department, ED, CBI, SFIO, SEBI, DRI, GST intelligence, FIU-IND, state police economic-offence wings, and how data flows between them (AIS, SFT, CRS/FATCA, PAN-Aadhaar, UPI trails)",
+          "slug": "the-enforcement-map-income-tax-department-ed-cbi-sfio-sebi-dri-gst-intelligence-fiu-ind-state-police-economic-offence-wings-and-how-data-flows-between-them-ais-sft-crs-fatca-pan-aadhaar-upi-trails",
+          "summary": "Covers the enforcement map: Income-tax Department, ED, CBI, SFIO, SEBI, DRI, GST intelligence, FIU-IND, state police economic-offence wings, and how data flows between them (AIS, SFT, CRS/FATCA, PAN-Aadhaar, UPI trails).",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-094",
+          "title": "Black-money laws: Black Money Act, Benami Act, PMLA, FEMA, the Prevention of Corruption Act, GST evasion provisions, SEBI's fraud rules, with penalties, prosecution thresholds, limitation periods and key judgements",
+          "slug": "black-money-laws-black-money-act-benami-act-pmla-fema-the-prevention-of-corruption-act-gst-evasion-provisions-sebi-s-fraud-rules-with-penalties-prosecution-thresholds-limitation-periods-and-key-judgements",
+          "summary": "Covers black-money laws: Black Money Act, Benami Act, PMLA, FEMA, the Prevention of Corruption Act, GST evasion provisions, SEBI's fraud rules, with penalties, prosecution thresholds, limitation periods and key judgements.",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-095",
+          "title": "Cash, under-reporting and the property market: why \"cash components\" are dangerous for buyers, sellers and heirs; stamp-duty valuation, section on difference between sale consideration and circle rate; lawful ways to fix legacy problems",
+          "slug": "cash-under-reporting-and-the-property-market-why-cash-components-are-dangerous-for-buyers-sellers-and-heirs-stamp-duty-valuation-section-on-difference-between-sale-consideration-and-circle-rate-lawful-ways-to-fix-legacy-problems",
+          "summary": "Covers cash, under-reporting and the property market: why cash components are dangerous for buyers, sellers and heirs; stamp-duty valuation, section on difference between sale consideration and circle rate; lawful ways to fix legacy problems.",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-096",
+          "title": "Hawala, round-tripping, shell companies, bogus bills, ITC fraud, crypto-laundering patterns: recognition, consequences, and real case studies (no how-to)",
+          "slug": "hawala-round-tripping-shell-companies-bogus-bills-itc-fraud-crypto-laundering-patterns-recognition-consequences-and-real-case-studies-no-how-to",
+          "summary": "Covers hawala, round-tripping, shell companies, bogus bills, ITC fraud, crypto-laundering patterns: recognition, consequences, and real case studies (no how-to).",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-097",
+          "title": "Insider trading, front-running, price manipulation, pump-and-dump: how SEBI detects and punishes, and how ordinary investors accidentally become exposed",
+          "slug": "insider-trading-front-running-price-manipulation-pump-and-dump-how-sebi-detects-and-punishes-and-how-ordinary-investors-accidentally-become-exposed",
+          "summary": "Covers insider trading, front-running, price manipulation, pump-and-dump: how SEBI detects and punishes, and how ordinary investors accidentally become exposed.",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-098",
+          "title": "If you are already non-compliant: lawful remediation, voluntary disclosure and settlement options, how to choose a tax lawyer or CA, privileged communication, how to behave in a search or survey",
+          "slug": "if-you-are-already-non-compliant-lawful-remediation-voluntary-disclosure-and-settlement-options-how-to-choose-a-tax-lawyer-or-ca-privileged-communication-how-to-behave-in-a-search-or-survey",
+          "summary": "Covers if you are already non-compliant: lawful remediation, voluntary disclosure and settlement options, how to choose a tax lawyer or CA, privileged communication, how to behave in a search or survey.",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-099",
+          "title": "Whistleblowing, reward schemes and protections, and how to report fraud safely",
+          "slug": "whistleblowing-reward-schemes-and-protections-and-how-to-report-fraud-safely",
+          "summary": "Covers whistleblowing, reward schemes and protections, and how to report fraud safely.",
+          "partId": "P13",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P14",
+      "partTitle": "Family Wealth, Inheritance and the Heir Without Access",
+      "chapters": [
+        {
+          "chapterId": "C-100",
+          "title": "India's inheritance system: Hindu Succession Act (including 2005 amendment), Mitakshara coparcenary, ancestral vs self-acquired property, Dayabhaga, Muslim, Christian, Parsi and special-marriage-act rules, intestate vs testate succession",
+          "slug": "india-s-inheritance-system-hindu-succession-act-including-2005-amendment-mitakshara-coparcenary-ancestral-vs-self-acquired-property-dayabhaga-muslim-christian-parsi-and-special-marriage-act-rules-intestate-vs-testate-succession",
+          "summary": "Covers india's inheritance system: Hindu Succession Act (including 2005 amendment), Mitakshara coparcenary, ancestral vs self-acquired property, Dayabhaga, Muslim, Christian, Parsi and special-marriage-act rules, intestate vs testate succession.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-101",
+          "title": "What a son can and cannot legally claim from a living parent's property: ancestral property rights, partition suits, the key Supreme Court judgements, limitation, evidence, valuation, costs, timelines, and realistic outcomes (neutral, with family-relationship and cost-benefit analysis)",
+          "slug": "what-a-son-can-and-cannot-legally-claim-from-a-living-parent-s-property-ancestral-property-rights-partition-suits-the-key-supreme-court-judgements-limitation-evidence-valuation-costs-timelines-and-realistic-outcomes-neutral-with-family-relationship-and-cost-benefit-analysis",
+          "summary": "Covers what a son can and cannot legally claim from a living parent's property: ancestral property rights, partition suits, the key Supreme Court judgements, limitation, evidence, valuation, costs, timelines, and realistic outcomes (neutral, with family-relationship and cost-benefit analysis).",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-102",
+          "title": "Non-litigation routes: family settlement deeds, mediation, arbitration, gift deeds, release deeds, structuring a loan from a parent with documented interest, partnership or employment in the family business, buying a stake, lawful tax-efficient transfers within the family, stamp-duty implications",
+          "slug": "non-litigation-routes-family-settlement-deeds-mediation-arbitration-gift-deeds-release-deeds-structuring-a-loan-from-a-parent-with-documented-interest-partnership-or-employment-in-the-family-business-buying-a-stake-lawful-tax-efficient-transfers-within-the-family-stamp-duty-implications",
+          "summary": "Covers non-litigation routes: family settlement deeds, mediation, arbitration, gift deeds, release deeds, structuring a loan from a parent with documented interest, partnership or employment in the family business, buying a stake, lawful tax-efficient transfers within the family, stamp-duty implications.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-103",
+          "title": "Wills, probate, succession certificates, nominations, joint holders, and why nominee ≠ owner",
+          "slug": "wills-probate-succession-certificates-nominations-joint-holders-and-why-nominee-owner",
+          "summary": "Covers wills, probate, succession certificates, nominations, joint holders, and why nominee != owner.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-104",
+          "title": "Family business succession, governance, valuations, buy-sell agreements, family constitutions, family offices, and keeping brothers friends",
+          "slug": "family-business-succession-governance-valuations-buy-sell-agreements-family-constitutions-family-offices-and-keeping-brothers-friends",
+          "summary": "Covers family business succession, governance, valuations, buy-sell agreements, family constitutions, family offices, and keeping brothers friends.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-105",
+          "title": "Property redevelopment and joint-development for family plots: contracts, taxation, risks",
+          "slug": "property-redevelopment-and-joint-development-for-family-plots-contracts-taxation-risks",
+          "summary": "Covers property redevelopment and joint-development for family plots: contracts, taxation, risks.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-106",
+          "title": "Estate planning for the wealthy: trusts, HUF, gifts, insurance, minimising probate friction, no estate duty today but watch law changes",
+          "slug": "estate-planning-for-the-wealthy-trusts-huf-gifts-insurance-minimising-probate-friction-no-estate-duty-today-but-watch-law-changes",
+          "summary": "Covers estate planning for the wealthy: trusts, HUF, gifts, insurance, minimising probate friction, no estate duty today but watch law changes.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-107",
+          "title": "Money and family psychology: negotiating with a wealthy parent, boundary-setting, sibling dynamics, and building independence so you never depend on inheritance",
+          "slug": "money-and-family-psychology-negotiating-with-a-wealthy-parent-boundary-setting-sibling-dynamics-and-building-independence-so-you-never-depend-on-inheritance",
+          "summary": "Covers money and family psychology: negotiating with a wealthy parent, boundary-setting, sibling dynamics, and building independence so you never depend on inheritance.",
+          "partId": "P14",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P15",
+      "partTitle": "NRI, Global and International Money",
+      "chapters": [
+        {
+          "chapterId": "C-108",
+          "title": "Residency and tax residency tests, RNOR, NRE/NRO/FCNR, repatriation, FEMA basics",
+          "slug": "residency-and-tax-residency-tests-rnor-nre-nro-fcnr-repatriation-fema-basics",
+          "summary": "Covers residency and tax residency tests, RNOR, NRE/NRO/FCNR, repatriation, FEMA basics.",
+          "partId": "P15",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-109",
+          "title": "Liberalised Remittance Scheme, TCS, Schedule FA/FSI/TR, overseas funds and US stocks, ETFs, brokers, tax on foreign assets, DTAA, reporting penalties",
+          "slug": "liberalised-remittance-scheme-tcs-schedule-fa-fsi-tr-overseas-funds-and-us-stocks-etfs-brokers-tax-on-foreign-assets-dtaa-reporting-penalties",
+          "summary": "Covers liberalised Remittance Scheme, TCS, Schedule FA/FSI/TR, overseas funds and US stocks, ETFs, brokers, tax on foreign assets, DTAA, reporting penalties.",
+          "partId": "P15",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-110",
+          "title": "GIFT City: IFSC funds, units, banking, insurance, taxation, and the practical use for residents",
+          "slug": "gift-city-ifsc-funds-units-banking-insurance-taxation-and-the-practical-use-for-residents",
+          "summary": "Covers gIFT City: IFSC funds, units, banking, insurance, taxation, and the practical use for residents.",
+          "partId": "P15",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-111",
+          "title": "Overseas education, working abroad, relocating, and taking money in and out lawfully",
+          "slug": "overseas-education-working-abroad-relocating-and-taking-money-in-and-out-lawfully",
+          "summary": "Covers overseas education, working abroad, relocating, and taking money in and out lawfully.",
+          "partId": "P15",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-112",
+          "title": "Foreign property, foreign income of Indians, and global diversification for Indian households",
+          "slug": "foreign-property-foreign-income-of-indians-and-global-diversification-for-indian-households",
+          "summary": "Covers foreign property, foreign income of Indians, and global diversification for Indian households.",
+          "partId": "P15",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P16",
+      "partTitle": "Retirement, Financial Independence and Decumulation",
+      "chapters": [
+        {
+          "chapterId": "C-113",
+          "title": "Retirement maths, FIRE variants for India (Lean/Fat/Coast/Barista), safe withdrawal rate for Indian inflation and returns, Monte Carlo",
+          "slug": "retirement-maths-fire-variants-for-india-lean-fat-coast-barista-safe-withdrawal-rate-for-indian-inflation-and-returns-monte-carlo",
+          "summary": "Covers retirement maths, FIRE variants for India (Lean/Fat/Coast/Barista), safe withdrawal rate for Indian inflation and returns, Monte Carlo.",
+          "partId": "P16",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-114",
+          "title": "Retirement accounts, annuities, reverse mortgage, senior-citizen benefits, healthcare costs",
+          "slug": "retirement-accounts-annuities-reverse-mortgage-senior-citizen-benefits-healthcare-costs",
+          "summary": "Covers retirement accounts, annuities, reverse mortgage, senior-citizen benefits, healthcare costs.",
+          "partId": "P16",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-115",
+          "title": "Decumulation engineering, sequence risk, tax-efficient withdrawal order",
+          "slug": "decumulation-engineering-sequence-risk-tax-efficient-withdrawal-order",
+          "summary": "Covers decumulation engineering, sequence risk, tax-efficient withdrawal order.",
+          "partId": "P16",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P17",
+      "partTitle": "Portfolio Architecture and the Master Plan",
+      "chapters": [
+        {
+          "chapterId": "C-116",
+          "title": "Asset allocation science and Indian-specific modelling (including property and family assets as part of net worth)",
+          "slug": "asset-allocation-science-and-indian-specific-modelling-including-property-and-family-assets-as-part-of-net-worth",
+          "summary": "Covers asset allocation science and Indian-specific modelling (including property and family assets as part of net worth).",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-117",
+          "title": "Rebalancing, glide paths, tax-aware rebalancing",
+          "slug": "rebalancing-glide-paths-tax-aware-rebalancing",
+          "summary": "Covers rebalancing, glide paths, tax-aware rebalancing.",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-118",
+          "title": "Wealth-stage playbooks: ₹13 lakh, ₹50 lakh, ₹1 crore, ₹5 crore, ₹10 crore, ₹25 crore+",
+          "slug": "wealth-stage-playbooks-13-lakh-50-lakh-1-crore-5-crore-10-crore-25-crore",
+          "summary": "Covers wealth-stage playbooks: 13 lakh, 50 lakh, 1 crore, 5 crore, 10 crore, 25 crore+.",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-119",
+          "title": "Arjun's complete 30-year master plan: income path, debt payoff schedule, investments, tax, insurance, legal/family strategy, scenarios (father shares / does not share / dispute), Monte Carlo and downside plan",
+          "slug": "arjun-s-complete-30-year-master-plan-income-path-debt-payoff-schedule-investments-tax-insurance-legal-family-strategy-scenarios-father-shares-does-not-share-dispute-monte-carlo-and-downside-plan",
+          "summary": "Covers arjun's complete 30-year master plan: income path, debt payoff schedule, investments, tax, insurance, legal/family strategy, scenarios (father shares / does not share / dispute), Monte Carlo and downside plan.",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-120",
+          "title": "Meera's and Rohan's master plans",
+          "slug": "meera-s-and-rohan-s-master-plans",
+          "summary": "Covers meera's and Rohan's master plans.",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-121",
+          "title": "Annual and quarterly money-management calendar and checklists",
+          "slug": "annual-and-quarterly-money-management-calendar-and-checklists",
+          "summary": "Covers annual and quarterly money-management calendar and checklists.",
+          "partId": "P17",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "P18",
+      "partTitle": "Advanced Quantitative and Analytical Toolkit",
+      "chapters": [
+        {
+          "chapterId": "C-122",
+          "title": "Portfolio theory, factor models, risk metrics, drawdown maths, fat tails",
+          "slug": "portfolio-theory-factor-models-risk-metrics-drawdown-maths-fat-tails",
+          "summary": "Covers portfolio theory, factor models, risk metrics, drawdown maths, fat tails.",
+          "partId": "P18",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-123",
+          "title": "Monte Carlo and scenario modelling for households",
+          "slug": "monte-carlo-and-scenario-modelling-for-households",
+          "summary": "Covers monte Carlo and scenario modelling for households.",
+          "partId": "P18",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-124",
+          "title": "Building your own data pipelines (Python, Excel, Google Sheets, APIs, AMFI/NSE/RBI data)",
+          "slug": "building-your-own-data-pipelines-python-excel-google-sheets-apis-amfi-nse-rbi-data",
+          "summary": "Covers building your own data pipelines (Python, Excel, Google Sheets, APIs, AMFI/NSE/RBI data).",
+          "partId": "P18",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "C-125",
+          "title": "Reading the economy: RBI policy, yield curve, inflation, fiscal data, FII/DII flows, and what is noise",
+          "slug": "reading-the-economy-rbi-policy-yield-curve-inflation-fiscal-data-fii-dii-flows-and-what-is-noise",
+          "summary": "Covers reading the economy: RBI policy, yield curve, inflation, fiscal data, FII/DII flows, and what is noise.",
+          "partId": "P18",
+          "targetWords": [
+            7000,
+            14000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    },
+    {
+      "partId": "B",
+      "partTitle": "Back matter",
+      "chapters": [
+        {
+          "chapterId": "A1",
+          "title": "Complete glossary (800+ terms, each linked to owner chapters)",
+          "slug": "complete-glossary-800-terms-each-linked-to-owner-chapters",
+          "summary": "Covers complete glossary (800+ terms, each linked to owner chapters).",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A2",
+          "title": "Law and regulation index",
+          "slug": "law-and-regulation-index",
+          "summary": "Covers law and regulation index.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A3",
+          "title": "Forms, portals and helplines directory (Income-tax portal, EPFO, NPCI, SEBI, RBI, IRDAI, MCA, GST, NCDRC, cybercrime.gov.in)",
+          "slug": "forms-portals-and-helplines-directory-income-tax-portal-epfo-npci-sebi-rbi-irdai-mca-gst-ncdrc-cybercrime-gov-in",
+          "summary": "Covers forms, portals and helplines directory (Income-tax portal, EPFO, NPCI, SEBI, RBI, IRDAI, MCA, GST, NCDRC, cybercrime.gov.in).",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A4",
+          "title": "Master checklists",
+          "slug": "master-checklists",
+          "summary": "Covers master checklists.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A5",
+          "title": "India-specific recommended reading, by subject, with 300+ books and sources",
+          "slug": "india-specific-recommended-reading-by-subject-with-300-books-and-sources",
+          "summary": "Covers india-specific recommended reading, by subject, with 300+ books and sources.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A6",
+          "title": "Calculator formulas appendix",
+          "slug": "calculator-formulas-appendix",
+          "summary": "Covers calculator formulas appendix.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A7",
+          "title": "Source bibliography",
+          "slug": "source-bibliography",
+          "summary": "Covers source bibliography.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        },
+        {
+          "chapterId": "A8",
+          "title": "Changelog and \"what changed since last edition\"",
+          "slug": "changelog-and-what-changed-since-last-edition",
+          "summary": "Covers changelog and what changed since last edition.",
+          "partId": "B",
+          "targetWords": [
+            3000,
+            15000
+          ],
+          "sections": [],
+          "personas": [
+            "Arjun",
+            "Meera",
+            "Rohan"
+          ]
+        }
+      ]
+    }
+  ]
+}

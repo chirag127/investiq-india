@@ -1,0 +1,20 @@
+{
+  "name": "investiq-india",
+  "version": "0.0.1",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "validate": "node scripts/validate-frontmatter.js",
+    "count-words": "node scripts/count-words.js",
+    "check-placeholders": "node scripts/check-placeholders.js",
+    "lint": "eslint .",
+    "book:pdf": "bash scripts/build-book.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

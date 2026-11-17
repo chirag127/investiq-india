@@ -1,0 +1,379 @@
+{
+  "tasks": [
+    {
+      "id": "T001",
+      "title": "Create repository scaffold",
+      "phase": 1,
+      "type": "setup",
+      "inputs": [],
+      "outputs": [
+        "dirs, AGENTS.md, README.md, progress/*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Dirs exist; valid files; .gitattributes untouched.",
+      "notes": "scaffold done",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T002",
+      "title": "Run tech stack spike: Node/Astro versions",
+      "phase": 1,
+      "type": "spike",
+      "inputs": [],
+      "outputs": [
+        "research/stack-spike.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Record tool versions; pandoc missing noted.",
+      "notes": "not verified",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T003",
+      "title": "Spike Astro minimal app",
+      "phase": 1,
+      "type": "spike",
+      "inputs": [],
+      "outputs": [
+        "src/pages smoke"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Astro dev runs; record result.",
+      "notes": "not started",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T004",
+      "title": "Spike PDF build path",
+      "phase": 1,
+      "type": "spike",
+      "inputs": [],
+      "outputs": [
+        "research/pdf-spike.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Document missing pandoc; propose alt; unverified.",
+      "notes": "not started",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T005",
+      "title": "Define section front matter schema + validator",
+      "phase": 2,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        "scripts/validate-frontmatter.js"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Validator reports errors; npm run validate works.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T006",
+      "title": "Define outline 100 chapters/sections",
+      "phase": 2,
+      "type": "design",
+      "inputs": [],
+      "outputs": [
+        "outline.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Outline with chapter/section IDs; no published content.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T007",
+      "title": "Create persona definitions",
+      "phase": 2,
+      "type": "content",
+      "inputs": [],
+      "outputs": [
+        "research/personas.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Three personas defined.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T008",
+      "title": "First fact batch: tax FY2025-26",
+      "phase": 3,
+      "type": "research",
+      "inputs": [],
+      "outputs": [
+        "data/facts/*.json"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "At least 10 verified facts with IDs/sources.",
+      "notes": "not yet verified",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T009",
+      "title": "Fact validation script",
+      "phase": 3,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        "scripts/validate-facts.js"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Script lists invalid records.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T010",
+      "title": "Placeholder check script",
+      "phase": 4,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        "scripts/check-placeholders.js"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Fails on placeholders in content/",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T011",
+      "title": "Word count script",
+      "phase": 4,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        "scripts/count-words.js"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Prints total words.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T012",
+      "title": "First section draft S-001",
+      "phase": 5,
+      "type": "content",
+      "inputs": [],
+      "outputs": [
+        "content/book/s-001-*.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Front matter valid; no placeholders; facts cited.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T013",
+      "title": "Review S-001",
+      "phase": 5,
+      "type": "review",
+      "inputs": [],
+      "outputs": [
+        "progress/quality-report.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Reviewer notes recorded; errors fixed.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T014",
+      "title": "Web route renders section",
+      "phase": 6,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/pages"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Section renders without duplicating prose.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T015",
+      "title": "Cross-reference resolution",
+      "phase": 6,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "scripts/check-xrefs.js"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "All crossrefs resolve.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T016",
+      "title": "Chart spec pipeline",
+      "phase": 6,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/components"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Chart renders from spec.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T017",
+      "title": "Calculator SIP future value",
+      "phase": 7,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/calculators/sip.*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Unit tests pass.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T018",
+      "title": "Calculator EMI",
+      "phase": 7,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/calculators/emi.*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Unit tests pass.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T019",
+      "title": "Calculator tax regime compare",
+      "phase": 7,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/calculators/tax.*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Unit tests pass with verified facts.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T020",
+      "title": "E2E smoke test",
+      "phase": 7,
+      "type": "test",
+      "inputs": [],
+      "outputs": [
+        "tests/e2e/smoke.*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Playwright smoke passes.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T021",
+      "title": "CI workflow",
+      "phase": 8,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        ".github/workflows/ci.yml"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "CI valid YAML.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T022",
+      "title": "PDF build pipeline",
+      "phase": 8,
+      "type": "infra",
+      "inputs": [],
+      "outputs": [
+        "book/templates, scripts/build-book.sh"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Produces PDF from single source.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T023",
+      "title": "SEO/meta tags",
+      "phase": 8,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/layouts"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Basic meta present.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T024",
+      "title": "Analytics placeholder privacy-first",
+      "phase": 8,
+      "type": "code",
+      "inputs": [],
+      "outputs": [
+        "src/lib/analytics.*"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Documented; optional.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    },
+    {
+      "id": "T025",
+      "title": "Launch checklist",
+      "phase": 8,
+      "type": "docs",
+      "inputs": [],
+      "outputs": [
+        "progress/LAUNCH.md"
+      ],
+      "status": "backlog",
+      "attempts": 0,
+      "acceptance": "Checklist with unverified items flushed.",
+      "notes": "pending",
+      "updated": "2026-10-16"
+    }
+  ]
+}
